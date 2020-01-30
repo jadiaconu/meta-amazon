@@ -1,2 +1,2 @@
 # meta-amazon
-Yocto repository for AWS
+Yocto repository for AWS 
